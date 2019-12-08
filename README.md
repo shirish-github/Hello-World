@@ -1,2 +1,4 @@
 # Hello-World
-New to this platform
+Hi I am Shirish
+I am New to this platform and
+Curious to Learn the Data world 
